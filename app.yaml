@@ -1,4 +1,4 @@
-application: mirror-api-glass-emulator.appspot.com
+application: mirror-api-glass-emulator
 version: 1
 runtime: python27
 threadsafe: true
